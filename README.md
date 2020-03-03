@@ -5,7 +5,13 @@ Solve the problems in the book, "Algorithms and Data Structures for Programming 
 * [Aizu Online Judge](http://judge.u-aizu.ac.jp/onlinejudge/index.jsp)
 
 ## Problems
-### Chapter 3 初等的整列
+
+|問番号|テーマ|日付|メモ|
+|--|--|--|--|
+|1A|Insertion sort|2020.03.03|添字の細かい部分で間違えないようにしたい|
+|1B|Greatest Common Divisor|2020.03.03|再帰関数は最後にも`return`をつける|
+|1C|Prime Number|2020.03.03|自明なケースは最初に省くと時間減らせる|
+
 
 
 ## Useful Links
