@@ -8,9 +8,10 @@ Solve the problems in the book, "Algorithms and Data Structures for Programming 
 
 |問番号|テーマ|日付|メモ|
 |--|--|--|--|
-|1A|Insertion sort|2020.03.03|添字の細かい部分で間違えないようにしたい|
+|1A|Insertion Sort|2020.03.03|添字の細かい部分で間違えないようにしたい|
 |1B|Greatest Common Divisor|2020.03.03|再帰関数は最後にも`return`をつける|
 |1C|Prime Number|2020.03.03|自明なケースは最初に省くと時間減らせる|
+|2A|Bubble Sort|2020.03.04|`input().split()`としてないのでpresentation errorがでた|
 
 
 
@@ -32,6 +33,9 @@ Solve the problems in the book, "Algorithms and Data Structures for Programming 
 ### 問題集
 * [AtCoder 版！蟻本 (初級編)](https://qiita.com/drken/items/e77685614f3c6bf86f44)
 * [AtCoder 版！蟻本 (中級編)](https://qiita.com/drken/items/2f56925972c1d34e05d8)
+
+### その他
+* [自分がよく使用するMarkdownの書き方まとめ](https://qiita.com/toyokky/items/47a5a56c20ad99e1784c)
 
 ### 環境構築(失敗)
 * [AtCoder用にPython3.4.3の環境を構築する](https://qiita.com/showyou/items/e9df09abe97071ef35f5)
