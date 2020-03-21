@@ -12,7 +12,8 @@ Solve the problems in the book, "Algorithms and Data Structures for Programming 
 |1B|Greatest Common Divisor|2020.03.03|再帰関数は最後にも`return`をつける|
 |1C|Prime Number|2020.03.03|自明なケースは最初に省くと時間減らせる|
 |2A|Bubble Sort|2020.03.04|`input().split()`としてないのでpresentation errorがでた|
-
+|3A|Stack|2020.03.20|classとしてデータ構造を実装|
+|3B|Queue|2020.03.21|`deque`というライブラリを使えば良い|
 
 
 ## Useful Links
@@ -23,11 +24,16 @@ Solve the problems in the book, "Algorithms and Data Structures for Programming 
 * [AtCoderをPythonで始めるときの環境構築といくつかのTIPS](https://qiita.com/recuraki/items/e60a90d8c21c3af0394d)
 
 ### 技術
+#### 文法
+* [Pythonで競プロやるときによく書くコードをまとめてみた](https://qiita.com/y-tsutsu/items/aa7e8e809d6ac167d6a1)
+
+#### 高速化
 * [計算量オーダーの求め方を総整理！ 〜 どこから log が出て来るか 〜](https://qiita.com/drken/items/872ebc3a2b5caaa4a0d0)
 * [特集！知らないと損をする計算量の話](https://qiita.com/drken/items/18b3b3db5735241465ef)
 * [Pythonistaなら知らないと恥ずかしい計算量のはなし](https://qiita.com/Hironsan/items/68161ee16b1c9d7b25fb)
 * [高速化のためのPython Tips](http://nonbiri-tereka.hatenablog.com/entry/2016/09/01/072402#PyPy)
 * [Python を高速化したい](https://python.ms/optimization/#%E8%83%8C%E6%99%AF)
+
 
 
 ### 問題集
