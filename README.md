@@ -14,6 +14,8 @@ Solve the problems in the book, "Algorithms and Data Structures for Programming 
 |2A|Bubble Sort|2020.03.04|`input().split()`としてないのでpresentation errorがでた|
 |3A|Stack|2020.03.20|classとしてデータ構造を実装|
 |3B|Queue|2020.03.21|`deque`というライブラリを使えば良い|
+|4A|Linear Search|2020.03.22|番兵法|
+|4B|Binary Search|2020.03.22|再帰は遅い．端点条件に注意．|
 
 
 ## Useful Links
